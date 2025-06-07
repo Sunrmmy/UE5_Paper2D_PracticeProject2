@@ -1,1 +1,3 @@
 # UE5_Paper2D_PracticeProject2
+
+这是一个简单的2d小游戏练习，玩家通过交替输入a和d增加runner的奔跑速度与简单的AI进行跑步比赛。
